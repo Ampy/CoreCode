@@ -14,8 +14,8 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "0505A0621637C1E000A1291B"
-               BuildableName = "libCoreCode.a"
+               BlueprintIdentifier = "0505A0C01637D25600A1291B"
+               BuildableName = "CoreCode.bundle"
                BlueprintName = "CoreCode"
                ReferencedContainer = "container:CoreCode.xcodeproj">
             </BuildableReference>

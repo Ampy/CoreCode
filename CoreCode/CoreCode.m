@@ -9,5 +9,17 @@
 #import "CoreCode.h"
 
 @implementation CoreCode
-
+- (id)init
+{
+    self = [super init];
+    if (self) {
+        // Initialization code here.
+    }
+    
+    return self;
+}
+- (void)TestShow
+{
+    NSLog(@"TestFramework");
+}
 @end
